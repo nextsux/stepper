@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Stepper
+Comment=Dream Cheeky USB pedometer
+Exec=python /usr/share/stepper/Stepper.py
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=GNOME;GTK;Utility;
+Icon=/usr/share/stepper/stepper.jpg

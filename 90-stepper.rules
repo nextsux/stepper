@@ -1,0 +1,1 @@
+SYSFS{idVendor}=="04f3", SYSFS{idProduct}=="a003", MODE="666", GROUP="audio"
